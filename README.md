@@ -1,5 +1,4 @@
-
---- # Olá, eu sou a # Vitória 👋
+ # Olá, eu sou a Vitória 👋
 
 📊 Analista de BI Júnior | Power BI • SQL • Excel • DAX
 
