@@ -33,10 +33,10 @@ Transformo dados em insights para apoiar decisões de negócios.
 ## 📜 Certificados
 
 ### 📄 Certificado Power BI
-![Certificado Power BI](CertificadoPowerBi.jpg)
+![Certificado Power BI](./assets/CertificadoPowerBi.jpg)
 
 ### 📄 Certificado Excel
-![Certificado Excel](CertificadoExcel.jpg)
+![Certificado](./assets/CertificadoExcel.jpg)
 
 ---
 ## 📫 Contato
