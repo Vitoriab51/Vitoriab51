@@ -1,0 +1,44 @@
+ # Olá, eu sou a Vitória 👋
+
+🎯 Analista de BI Júnior
+📊 Power BI | SQL | Excel | DAX
+
+Transformo dados em insights para apoiar decisões de negócios.
+
+---
+
+## 📊 Projeto em destaque
+
+### 📌 Dashboard de Vendas - Power BI
+
+🔗 [https://github.com/Vitoriab51/dashboard-vendas-powerbi](https://github.com/Vitoriab51/dashboard-vendas-powerbi)
+
+---
+
+## 💡 Insights do Projeto
+
+* A vendedora Ana apresentou maior faturamento
+* A categoria Móveis lidera as vendas
+* Crescimento ao longo do período analisado
+
+---
+
+## 🛠️ Ferramentas
+
+* Power BI
+* Excel
+* DAX
+---
+
+## 📜 Certificados
+
+### 📄 Certificado Power BI
+![Certificado Power BI](CertificadoPowerBi.jpg)
+
+### 📄 Certificado Excel
+![Certificado Excel](CertificadoExcel.jpg)
+
+---
+## 📫 Contato
+
+🔗 LinkedIn: https://www.linkedin.com/in/vitoria-bernardes-2332b4345
