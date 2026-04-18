@@ -43,3 +43,5 @@ Tenho foco em entender o problema de negócio antes de iniciar qualquer análise
 ## 📫 Contato
 
 🔗 LinkedIn: https://www.linkedin.com/in/vitoria-bernardes-2332b4345
+🔗 Email: Vitoriabernardes56uta@gmail.com
+
